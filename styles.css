@@ -1,0 +1,34 @@
+body {
+    color: lightgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height:1.4em;
+    margin: auto;
+    width: 80%;
+}
+
+a {
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(22, 191, 233);
+ }
+
+h1, h2, p {
+    padding: 0 15px;
+}
+
+.lightblue-border {
+    border: 5px solid rgb(177, 226, 241);
+}
+
+.displayblock {
+    display: block;
+    padding: 25px;
+}
+
+#blue-background {
+    background-color: rgb(22, 191, 233);
+}
+
+footer {
+    padding: 15px;
+}
